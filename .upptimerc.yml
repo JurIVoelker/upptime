@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: TTC Klingenmünster
-    url: http://www.ttc-klingenmuenster.de
+    url: https://www.ttc-klingenmuenster.de
   - name: Juri Photography Website
     url: https://www.jurivoelker.de
 
