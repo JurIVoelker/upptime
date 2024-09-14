@@ -1,22 +1,22 @@
 [
   {
     "name": "TTC Klingenmünster",
-    "url": "http://www.ttc-klingenmuenster.de",
+    "url": "https://www.ttc-klingenmuenster.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.ttc-klingenmuenster.de.ico",
     "slug": "ttc-klingenmuenster",
     "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
+    "uptime": "98.90%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 657,
     "timeDay": 591,
     "timeWeek": 657,
     "timeMonth": 657,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-09-14": 0,
+      "2024-09-14": 5,
       "2024-09-13": 83
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 926,
-    "timeDay": 776,
-    "timeWeek": 926,
-    "timeMonth": 926,
-    "timeYear": 926,
+    "time": 909,
+    "timeDay": 784,
+    "timeWeek": 909,
+    "timeMonth": 909,
+    "timeYear": 909,
     "dailyMinutesDown": {}
   }
 ]
