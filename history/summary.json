@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ttc-klingenmuenster.de.ico",
     "slug": "ttc-klingenmuenster",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 957,
-    "timeDay": 917,
-    "timeWeek": 1154,
-    "timeMonth": 969,
-    "timeYear": 957,
+    "uptimeYear": "99.82%",
+    "time": 953,
+    "timeDay": 815,
+    "timeWeek": 1094,
+    "timeMonth": 976,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2024-09-13": 83
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1099,
-    "timeDay": 1281,
-    "timeWeek": 1602,
-    "timeMonth": 1107,
-    "timeYear": 1099,
+    "time": 1104,
+    "timeDay": 1273,
+    "timeWeek": 1497,
+    "timeMonth": 1120,
+    "timeYear": 1104,
     "dailyMinutesDown": {}
   }
 ]
