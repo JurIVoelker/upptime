@@ -27,17 +27,19 @@
     "url": "https://www.jurivoelker.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.jurivoelker.de.ico",
     "slug": "juri-photography-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1002,
-    "timeDay": 318,
-    "timeWeek": 634,
-    "timeMonth": 1047,
-    "timeYear": 1002,
-    "dailyMinutesDown": {}
+    "time": 993,
+    "timeDay": 412,
+    "timeWeek": 618,
+    "timeMonth": 1030,
+    "timeYear": 993,
+    "dailyMinutesDown": {
+      "2024-11-01": 0
+    }
   }
 ]
