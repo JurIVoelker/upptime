@@ -1,7 +1,7 @@
 url: https://raspi-autowater-dashboard.jurivoelker.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-24T15:27:14.313Z
+status: up
+code: 200
+responseTime: 729
+lastUpdated: 2025-08-24T16:16:26.267Z
 startTime: 2025-04-22T17:30:19.203Z
 generator: Upptime <https://github.com/upptime/upptime>
